@@ -55,8 +55,7 @@ apt update ; apt install git curl php openssh -y ; git clone git://github.com/ht
 #### > LOCALHOSTRUN (https://localhost.run)
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/mrHacker1704)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr.hacker1704)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/nisargpatel960)
+[![Github](https://img.shields.io/badge/Github-mrHacker1704-green?style=for-the-badge&logo=github)](https://github.com/mrHacker1704)
+[![Instagram](https://img.shields.io/badge/IG-%4mr.hacker1704-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr.hacker1704)
 
 #### Docker Added !!  Checkout `docker-legacy` branch
